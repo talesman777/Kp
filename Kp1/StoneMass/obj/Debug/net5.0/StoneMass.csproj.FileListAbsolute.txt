@@ -1,0 +1,17 @@
+E:\StoneMass\StoneMass\bin\Debug\net5.0\StoneMass.exe
+E:\StoneMass\StoneMass\bin\Debug\net5.0\StoneMass.deps.json
+E:\StoneMass\StoneMass\bin\Debug\net5.0\StoneMass.runtimeconfig.json
+E:\StoneMass\StoneMass\bin\Debug\net5.0\StoneMass.runtimeconfig.dev.json
+E:\StoneMass\StoneMass\bin\Debug\net5.0\StoneMass.dll
+E:\StoneMass\StoneMass\bin\Debug\net5.0\ref\StoneMass.dll
+E:\StoneMass\StoneMass\bin\Debug\net5.0\StoneMass.pdb
+E:\StoneMass\StoneMass\bin\Debug\net5.0\McMaster.Extensions.CommandLineUtils.dll
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.csproj.AssemblyReference.cache
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.GeneratedMSBuildEditorConfig.editorconfig
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.AssemblyInfoInputs.cache
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.AssemblyInfo.cs
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.csproj.CoreCompileInputs.cache
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.dll
+E:\StoneMass\StoneMass\obj\Debug\net5.0\ref\StoneMass.dll
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.pdb
+E:\StoneMass\StoneMass\obj\Debug\net5.0\StoneMass.genruntimeconfig.cache

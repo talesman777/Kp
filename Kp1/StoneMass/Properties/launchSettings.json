@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StoneMass": {
+      "commandName": "Project",
+      "commandLineArgs": "-input \"..\\..\\..\\INPUT.txt\" -output \"..\\..\\..\\OUTPUT.txt\""
+    }
+  }
+}
